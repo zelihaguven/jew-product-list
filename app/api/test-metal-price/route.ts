@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server"
 
-const METAL_PRICE_API_KEY = process.env.METALS_API_KEY || "ae97acf167389a7c805fa2fc3871d2b3"
+const METAL_PRICE_API_KEY = process.env.METALS_API_KEY || 
 
 export async function GET() {
   const testResults = {
