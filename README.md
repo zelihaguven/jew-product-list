@@ -78,13 +78,13 @@ Modern ve şık bir mücevher e-ticaret uygulaması. Gerçek zamanlı metal fiya
 5. **Development sunucusunu başlatın:**
    \`\`\`bash
    npm run dev
-   # veya
+    veya
    yarn dev
-   # veya
+    veya
    pnpm dev
    \`\`\`
 
-6. **Tarayıcınızda açın:** [http://localhost:3000](http://localhost:3000)
+
 
 ## 🔧 Konfigürasyon
 
